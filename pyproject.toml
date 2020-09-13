@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "agon"
-version = "0.1.0"
+version = "0.1.0post1"
 description = "Thin wrapper around jmespath in order to compose projections"
 authors = ["Xavier Barbosa <clint.northwood@gmail.com>"]
 license = "MIT"
+readme = "README.md"
+homepage = "https://lab.errorist.xyz/py/agon"
 
 [tool.poetry.dependencies]
 python = "^3.6"
